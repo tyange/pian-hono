@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "@hono/node-server": "^0.2.3",
+    "@types/dotenv": "^8.2.0",
+    "@types/pg": "^8.6.6",
+    "dotenv": "^16.0.3",
+    "hono": "^3.0.2",
+    "pg": "^8.10.0"
+  },
+  "devDependencies": {
+    "tsx": "^3.12.2"
+  }
+}
